@@ -1,3 +1,3 @@
-Nhấn qua phần Actions, để tải firmware nạp .urf2
+Use this to generate keymap
 
 https://nickcoutsos.github.io/keymap-editor/
